@@ -16,3 +16,6 @@ Scheduled Execution (Optional):
 If you want to schedule the script to run at specific times, you can use tools like cron on Unix-based systems or Task Scheduler on Windows.
 
 Please note that this script utilizes pywhatkit to automate WhatsApp messages and sends them at a scheduled time. It also logs the messages sent in the read.md file. Be sure to follow WhatsApp's terms of service and policies when automating messages.
+ if any error is coming you can slove using
+  pip install urllib3==1.25.11.
+  
